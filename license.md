@@ -9,7 +9,7 @@ The **🖼️ Discord PFP Viewer** is the most powerful tool for viewing and dow
 
 <div align="center">
 
-[![Download Discord PFP Viewer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/discord-pfp-viewer)
+[![Download Discord PFP Viewer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/discord-pfp-viewer)
 
 </div>
 
@@ -106,7 +106,7 @@ You need a way to view full-size avatars. High resolution. Animated GIFs. User b
 6. **🔢 Enter User ID** — paste Discord user ID
 7. **🔍 Click View** — see full-size avatar
 
-[![Download Discord PFP Viewer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/discord-pfp-viewer)
+[![Download Discord PFP Viewer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/discord-pfp-viewer)
 
 ### Getting a User ID
 
@@ -207,7 +207,7 @@ See the full picture. **Discord PFP Viewer** lets you view and download full-siz
 
 <div align="center">
 
-[![Download Discord PFP Viewer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/discord-pfp-viewer)
+[![Download Discord PFP Viewer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/discord-pfp-viewer)
 
 **Version 4.6.1** — Full-size Discord avatars. Free forever.
 
